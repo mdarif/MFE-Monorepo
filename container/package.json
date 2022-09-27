@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack serve --open"
+    "start": "webpack serve"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mohammad Arif",
   "license": "ISC",
   "dependencies": {
     "html-webpack-plugin": "5.5.0",

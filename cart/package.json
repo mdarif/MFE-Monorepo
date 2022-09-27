@@ -7,7 +7,7 @@
     "start": "webpack serve"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mohammad Arif",
   "license": "ISC",
   "dependencies": {
     "faker": "^5.1.0",
