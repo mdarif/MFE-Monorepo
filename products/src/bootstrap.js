@@ -1,4 +1,5 @@
 import faker from 'faker'
+import './products.scss'
 
 const mount = el => {
   let products = ''

@@ -1,7 +1,8 @@
 import faker from 'faker'
+import './cart.scss'
 
 const mount = el => {
-  const cartText = `<div>You have ${faker.random.number()} items in your cart.</div>`
+  const cartText = `<div class="cart">You have ${faker.random.number()} items in your cart.</div>`
 
   el.innerHTML = cartText
 }
